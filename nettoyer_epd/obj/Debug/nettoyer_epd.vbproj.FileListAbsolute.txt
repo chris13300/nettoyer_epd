@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\bin\Debug\nettoyer_epd.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\bin\Debug\nettoyer_epd.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\bin\Debug\nettoyer_epd.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\bin\Debug\nettoyer_epd.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\obj\Debug\nettoyer_epd.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\obj\Debug\nettoyer_epd.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\obj\Debug\nettoyer_epd.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\obj\Debug\nettoyer_epd.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\nettoyer_epd\nettoyer_epd\obj\Debug\nettoyer_epd.pdb
